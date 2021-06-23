@@ -9,7 +9,9 @@ http://www.sqlservercentral.com/articles/SQLCLR/177834/
 
 Eilert's GitHub project: https://github.com/eilerth/sqlclr-http-request
 
-My version extends the project by adding the following:
+Updated to .NET 4.7.2 - now works with Visual Studio 2019
+
+Previous version extends the project by adding the following:
 
 * Usage of TLS1.2 security protocol (nowadays a global standard).
 * Two new authentication methods:
